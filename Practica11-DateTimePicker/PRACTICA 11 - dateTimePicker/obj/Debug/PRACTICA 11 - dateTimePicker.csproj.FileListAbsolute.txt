@@ -1,0 +1,10 @@
+C:\Users\user1\Desktop\windowsForms\PRACTICA 11 - dateTimePicker\bin\Debug\PRACTICA 11 - dateTimePicker.exe.config
+C:\Users\user1\Desktop\windowsForms\PRACTICA 11 - dateTimePicker\bin\Debug\PRACTICA 11 - dateTimePicker.exe
+C:\Users\user1\Desktop\windowsForms\PRACTICA 11 - dateTimePicker\bin\Debug\PRACTICA 11 - dateTimePicker.pdb
+C:\Users\user1\Desktop\windowsForms\PRACTICA 11 - dateTimePicker\obj\Debug\PRACTICA 11 - dateTimePicker.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\windowsForms\PRACTICA 11 - dateTimePicker\obj\Debug\PRACTICA_11___dateTimePicker.Form1.resources
+C:\Users\user1\Desktop\windowsForms\PRACTICA 11 - dateTimePicker\obj\Debug\PRACTICA_11___dateTimePicker.Properties.Resources.resources
+C:\Users\user1\Desktop\windowsForms\PRACTICA 11 - dateTimePicker\obj\Debug\PRACTICA 11 - dateTimePicker.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\windowsForms\PRACTICA 11 - dateTimePicker\obj\Debug\PRACTICA 11 - dateTimePicker.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\windowsForms\PRACTICA 11 - dateTimePicker\obj\Debug\PRACTICA 11 - dateTimePicker.exe
+C:\Users\user1\Desktop\windowsForms\PRACTICA 11 - dateTimePicker\obj\Debug\PRACTICA 11 - dateTimePicker.pdb
