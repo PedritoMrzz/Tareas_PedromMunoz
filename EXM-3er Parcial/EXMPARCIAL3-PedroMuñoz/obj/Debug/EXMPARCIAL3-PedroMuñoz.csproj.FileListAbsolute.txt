@@ -1,0 +1,14 @@
+C:\Users\user1\Desktop\EXM-3er Parcial\EXMPARCIAL3-PedroMuñoz\bin\Debug\EXMPARCIAL3-PedroMuñoz.exe.config
+C:\Users\user1\Desktop\EXM-3er Parcial\EXMPARCIAL3-PedroMuñoz\bin\Debug\EXMPARCIAL3-PedroMuñoz.exe
+C:\Users\user1\Desktop\EXM-3er Parcial\EXMPARCIAL3-PedroMuñoz\bin\Debug\EXMPARCIAL3-PedroMuñoz.pdb
+C:\Users\user1\Desktop\EXM-3er Parcial\EXMPARCIAL3-PedroMuñoz\obj\Debug\EXMPARCIAL3-PedroMuñoz.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\EXM-3er Parcial\EXMPARCIAL3-PedroMuñoz\obj\Debug\EXMPARCIAL3_PedroMuñoz.Form1.resources
+C:\Users\user1\Desktop\EXM-3er Parcial\EXMPARCIAL3-PedroMuñoz\obj\Debug\EXMPARCIAL3_PedroMuñoz.Properties.Resources.resources
+C:\Users\user1\Desktop\EXM-3er Parcial\EXMPARCIAL3-PedroMuñoz\obj\Debug\EXMPARCIAL3-PedroMuñoz.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\EXM-3er Parcial\EXMPARCIAL3-PedroMuñoz\obj\Debug\EXMPARCIAL3-PedroMuñoz.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\EXM-3er Parcial\EXMPARCIAL3-PedroMuñoz\obj\Debug\EXMPARCIAL3-PedroMuñoz.exe
+C:\Users\user1\Desktop\EXM-3er Parcial\EXMPARCIAL3-PedroMuñoz\obj\Debug\EXMPARCIAL3-PedroMuñoz.pdb
+C:\Users\user1\Desktop\EXM-3er Parcial\EXMPARCIAL3-PedroMuñoz\obj\Debug\EXMPARCIAL3-PedroMuñoz.exe.config
+C:\Users\user1\Desktop\EXM-3er Parcial\EXMPARCIAL3-PedroMuñoz\obj\Debug\EXMPARCIAL3_PedroMuñoz.Login.resources
+C:\Users\user1\Desktop\EXM-3er Parcial\EXMPARCIAL3-PedroMuñoz\obj\Debug\EXMPARCIAL3_PedroMuñoz.Index.resources
+C:\Users\user1\Desktop\EXM-3er Parcial\EXMPARCIAL3-PedroMuñoz\obj\Debug\EXMPARCIAL3_PedroMuñoz.Ticket.resources
